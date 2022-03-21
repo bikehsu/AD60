@@ -1,0 +1,7 @@
+D:\Project\AD60\AD60\obj\Release\net6.0\PubTmp\Out\AD60.exe
+D:\Project\AD60\AD60\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Project\AD60\AD60\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Project\AD60\AD60\obj\Release\net6.0\PubTmp\Out\AD60.dll
+D:\Project\AD60\AD60\obj\Release\net6.0\PubTmp\Out\AD60.deps.json
+D:\Project\AD60\AD60\obj\Release\net6.0\PubTmp\Out\AD60.runtimeconfig.json
+D:\Project\AD60\AD60\obj\Release\net6.0\PubTmp\Out\AD60.pdb
