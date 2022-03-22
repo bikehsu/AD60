@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\adtest\\.nuget\\packages\\": {}
+    "C:\\Users\\bike\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\AD60\\AD60\\AD60.csproj",
+      "projectUniqueName": "D:\\project\\AD60\\AD60\\AD60\\AD60.csproj",
       "projectName": "AD60",
-      "projectPath": "D:\\Project\\AD60\\AD60\\AD60.csproj",
-      "packagesPath": "C:\\Users\\adtest\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\AD60\\AD60\\obj\\",
+      "projectPath": "D:\\project\\AD60\\AD60\\AD60\\AD60.csproj",
+      "packagesPath": "C:\\Users\\bike\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\AD60\\AD60\\AD60\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\adtest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bike\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +32,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\bike\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
